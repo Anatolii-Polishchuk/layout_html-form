@@ -1,1 +1,15 @@
-/* styles go here */
+/* stylelint-disable-next-line block-opening-brace-space-before */
+.formfield{
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* stylelint-disable-next-line block-opening-brace-space-before */
+.formfield:last-child{
+  margin-bottom: 0;
+}
+
+/* stylelint-disable-next-line block-opening-brace-space-before */
+.selection{
+  margin-bottom: 20px;
+}
