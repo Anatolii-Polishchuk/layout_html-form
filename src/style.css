@@ -1,15 +1,12 @@
-/* stylelint-disable-next-line block-opening-brace-space-before */
-.formfield{
+.formfield {
   display: block;
   margin-bottom: 10px;
 }
 
-/* stylelint-disable-next-line block-opening-brace-space-before */
-.formfield:last-child{
+.formfield:last-child {
   margin-bottom: 0;
 }
 
-/* stylelint-disable-next-line block-opening-brace-space-before */
-.selection{
+.selection {
   margin-bottom: 20px;
 }
