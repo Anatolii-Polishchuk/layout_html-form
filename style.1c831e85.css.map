@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACE,aAAc,CACd,kBACF,CAEA,sBACE,eACF,CAEA,WACE,kBACF","file":"style.1c831e85.css","sourceRoot":"..\\src","sourcesContent":[".formfield {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.formfield:last-child {\n  margin-bottom: 0;\n}\n\n.selection {\n  margin-bottom: 20px;\n}\n"]}
